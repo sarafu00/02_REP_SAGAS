@@ -1,1 +1,11 @@
 1	Star Wars: Episodio I - La amenaza fantasma
+2 Star Wars: Episodio II - El ataque de los clones
+3 Star Wars: Episodio III - La venganza de los sith
+4 Solo: Han Solo: una historia de Star Wars
+5 Rogue One - Rogue One - una historia de Star Wars
+6 Star Wars: Episodio IV - una nueva esperanza
+7 Star Wars: Episodio V - el imperio contraataca
+8 Star Wars: Episodio VI - el regreso del jedi
+9 Star Wars: Episodio VII - el despertar de la fuerza
+10 Star Wars: Episodio VIII - el último jedi
+11 Star Wars: Episodio IX - el ascenso de Skywalker
